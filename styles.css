@@ -1,0 +1,40 @@
+h1{
+	color: midnightblue;
+	font-size: 44;
+	font-family: cursive;
+	font-weight: normal;
+	font-style: monospace;
+}
+h2{
+	color: brown;
+	font-size: 33;
+	font-family: monospace;
+	font-weight: bold;
+
+}
+P{
+	font-size: 15;
+	color: purple;
+		font-family:fantasy ;
+	}
+h3{
+
+	color: brown;
+	font-size: 33;
+	font-family: monospace;
+	font-weight: bolder ;
+}
+h4{
+	font-size: 33;
+	color: brown;
+	font-family: monospace;
+	font-weight: lighter;
+}
+h5{
+	font-family: monospace;
+	color: brown;
+	font-size: 33;	
+}
+body{
+	background-color: darkgrey;
+}
